@@ -1,0 +1,1 @@
+THis is latest expo clone - this is working building features but after creating apk it is not working
