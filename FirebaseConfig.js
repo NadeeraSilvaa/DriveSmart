@@ -7,12 +7,12 @@ import { AsyncStorage } from "@react-native-async-storage/async-storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBXUeLxYx0bDAESHOmPR3xNvsxF-GR-aeM",
-  authDomain: "drive-smart-22b07.firebaseapp.com",
+  apiKey: "Add your own key",
+  authDomain: "Add your own",
   projectId: "drive-smart-22b07",
-  storageBucket: "drive-smart-22b07.appspot.com",
-  messagingSenderId: "592461330239",
-  appId: "1:592461330239:web:260ad6f2b057e86a24058a"
+  storageBucket: "Add your own",
+  messagingSenderId: "Add your own",
+  appId: "Add your own"
 };
 
 // Initialize Firebase
